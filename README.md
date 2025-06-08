@@ -1,7 +1,7 @@
 # credit-card-fraud-detection
 ## Credit Card Fraud Detection Structure
 ## 项目结构
-```text
+```plaintext
 credit-card-fraud-detection/  
 ├── data/                                   # 原始数据目录  
 │   └── creditcard.csv                      # 原始数据文件  
