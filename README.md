@@ -43,6 +43,8 @@ credit-card-fraud-detection/
 └── README.md                                       # 项目说明与结果总结
 ```
 
+###  creditcard.csv请到[Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)下载。
+
 ## License
 
 This project is licensed under the GNU GPL v3 (see [LICENSE](./LICENSE)),  
